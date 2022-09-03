@@ -3,5 +3,5 @@
 Imagem no Docker Hub:
 
 ```
-docker push eduardobusato51/desafio-golang
+docker pull eduardobusato51/desafio-golang
 ```
